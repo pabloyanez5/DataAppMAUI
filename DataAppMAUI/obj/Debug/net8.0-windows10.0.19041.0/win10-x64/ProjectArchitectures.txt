@@ -1,0 +1,1 @@
+D:\QUINTO SEMESTRE UDLA\Progra IV\PY\DataAppMAUI\DataAppMAUI\DataAppMAUI.csproj;x64
