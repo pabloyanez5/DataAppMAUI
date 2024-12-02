@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="PabloYanezApuntes.AboutPage"
+             Title="Acerca de">
+
+    <VerticalStackLayout Spacing="25" Padding="30" HorizontalOptions="Center">
+        <Image Source="icon_person.png" WidthRequest="100" HeightRequest="100" HorizontalOptions="Center" />
+        <Label Text="Pablo Yañez"
+               FontSize="24" 
+               HorizontalOptions="Center" />
+        <Label Text="Soy un apasionado por la tecnología y el desarrollo de software. Disfruto aprender nuevas tecnologías y resolver problemas complejos."
+               HorizontalOptions="Center" 
+               LineBreakMode="WordWrap" />
+    </VerticalStackLayout>
+
+</ContentPage>
